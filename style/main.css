@@ -1,0 +1,51 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  font-family: "helvetica";
+}
+
+.carousel {
+  position: absolute;
+  top: 0%;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+.carousel .item {
+  width: auto;
+  height: 100%;
+}
+.carousel img {
+  position: relative;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: fill;
+}
+
+.topbar ul {
+list-style-type: none;
+margin: 0;
+padding-right: 50;
+overflow: hidden;
+background-color: #333;
+opacity: 0.7;
+}
+.topbar li {
+  float: right
+}
+.topbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.topbar li a:hover {
+  background-color: #111;
+}
+.topbar .active {
+  background-color: #555;
+  opacity: 0.7;
+}

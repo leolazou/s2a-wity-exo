@@ -1,0 +1,100 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  font-family: "helvetica";
+}
+
+.topbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding-right: 50;
+  overflow: hidden;
+  background-color: #333;
+  opacity: 0.7;
+}
+.topbar li {
+  float: right
+}
+.topbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.topbar li a:hover {
+  background-color: #111;
+}
+.topbar .active {
+  background-color: #555;
+  opacity: 0.7;
+}
+
+.navmenu {
+  position: relative;
+  float: right;
+  right: 40;
+  top: 50;
+  background-color: silver;
+  width: 250;
+}
+.navmenu:hover {
+  background-color: gray;
+}
+.navmenu p {
+  position: relative;
+  margin-left: 40;
+  margin-top: 25;
+  font-size: 2em;
+  font-weight: bold;
+  color: white;
+}
+.navmenu ul {
+  padding-left: 0;
+  list-style-type: none;
+  overflow: hidden;
+}
+.navmenu li a {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  padding-top: 10px;
+  padding-left: 40;
+  color: white;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+.navmenu li a:hover {
+  font-weight: bold;
+}
+
+.page-title {
+  margin-top: 50;
+  margin-left: 100;
+  margin-right: 400;
+  font-weight: bold;
+}
+
+.articles {
+  margin-left: 100;
+  margin-right: 400;
+  margin-top: 70;
+}
+
+.articles hr {
+  border-style: solid;
+  border-width: medium;
+  border-color: #4CAF50;
+}
+
+.articles iframe {
+  position: relative;
+  margin-top: 10;
+  margin-bottom: 60;
+  width: 100%;
+  min-height: 400;
+  border-width: 0;
+}
