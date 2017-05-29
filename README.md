@@ -8,7 +8,7 @@ Valide : un : "creati", pw : "wity".
 
 Pour **Blog**, chaque article est une page html, contenue dans le dossier avec les images apparaissant dans l'article.
 
-Il y a eu des difficultés avec git, donc voici les commits effectués:
+Il y a eu des difficultés avec git, donc voici les commits effectués sur le repo d'origine:
 
 >commit c7d0aa5aa2935ef8880918eac332df179ea03e46
 >Author: leolazou <leonid.lazoutine@depinfonancy.net>
@@ -31,7 +31,7 @@ Il y a eu des difficultés avec git, donc voici les commits effectués:
 >commit 69dbd9cc81ffafa918253ac0245bbc49f9ceaff2
 >Author: leolazou <leonid.lazoutine@depinfonancy.net>
 >Date:   Mon May 29 20:52:14 2017 +0200
-
+>
 >    creation de blog
 >
 >commit cf1550893e86492b9ae9f8213512c8c84613592f
