@@ -2,7 +2,6 @@
   "name" : "s2a-wity exo",
   "description" : "exo for internship in Creatiwity by Leo Lazoutine",
   "author" : "Leo Lazoutine",
-  "dependancies" : {},
   "scripts" : {
     "start" : "node server.js"
   }

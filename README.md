@@ -1,12 +1,13 @@
 # s2a-wity-exo
 Exo pour mon stage à Creatiwity
 
+#### Pour lancer : `<node server.js>`
 Il y a 3 pages : Home, Blog et Login.
 
-Pour **Login**, les username et password acceptables sont stockés dans une simple variable json de login.js . Ceci n'est bine sûr pas "sérieux", mais ça modélise une base de données avec les identifiants.
+Page **Login** : les username et password acceptables sont stockés dans une simple variable json de login.js . Ceci n'est bine sûr pas "sérieux", mais ça modélise une base de données avec les identifiants.
 Valide : un : "creati", pw : "wity".
 
-Pour **Blog**, chaque article est une page html, contenue dans le dossier avec les images apparaissant dans l'article.
+Page **Blog** : chaque article est une page html, contenue dans le dossier avec les images apparaissant dans l'article.
 
 Il y a eu des difficultés avec git, donc voici les commits effectués sur le repo d'origine:
 
