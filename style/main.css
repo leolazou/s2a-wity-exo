@@ -49,3 +49,20 @@ opacity: 0.7;
   background-color: #555;
   opacity: 0.7;
 }
+
+.title {
+  position: relative;
+  /*bottom: 20%;*/
+  /*left: 4%;*/
+  width:30%;
+  height: 93%;
+  /*padding-bottom: 5;*/
+  padding-top: 36%;
+  padding-left: 4%;
+  /*padding-right: 90;*/
+  /*text-align: center;*/
+  background-color: white;
+  opacity: 0.4;
+  font-size: 3em;
+  font-weight: bold;
+}
