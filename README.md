@@ -1,7 +1,9 @@
 # s2a-wity-exo
 Exo pour mon stage à Creatiwity
 
-#### Pour lancer : `<node server.js>`
+#### Pour lancer :
+    `<node server.js>`
+    Puis ouvrir localhost:2017 dans un navigateur
 Il y a 3 pages : Home, Blog et Login.
 
 Page **Login** : les username et password acceptables sont stockés dans une simple variable json de login.js . Ceci n'est bine sûr pas "sérieux", mais ça modélise une base de données avec les identifiants.
