@@ -2,14 +2,13 @@
 Exo pour mon stage à Creatiwity
 
 #### Pour lancer :
-    `<node server.js>`
-    Puis ouvrir localhost:2017 dans un navigateur
+* lancer `node server.js`
+* ouvrir dans un navigateur localhost:2017
+
 Il y a 3 pages : Home, Blog et Login.
 
-Page **Login** : les username et password acceptables sont stockés dans une simple variable json de login.js . Ceci n'est bine sûr pas "sérieux", mais ça modélise une base de données avec les identifiants.
-Valide : un : "creati", pw : "wity".
-
-Page **Blog** : chaque article est une page html, contenue dans le dossier avec les images apparaissant dans l'article.
+* Page **Login** : les username et password acceptables sont stockés dans une simple variable json de login.js . Ceci n'est bine sûr pas "sérieux", mais ça modélise une base de données avec les identifiants. (Identifiant : "creati", mot de passe : "wity")
+* Page **Blog** : chaque article est une page html, contenue dans le dossier avec les images apparaissant dans l'article.
 
 Il y a eu des difficultés avec git, donc voici les commits effectués sur le repo d'origine:
 
